@@ -20,19 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Texto sobre IAS Generativas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Foi criado um avatar com uma foto pessoal, e a reprodução da voz foi retirada dos próprios exemplos que a ferramenta proporciona.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+. Studio d-id
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro passo do processo de criação foi adicionar uma foto pessoal
+Segundo passo foi escrever um texto
+Terceiro passo escolher o tipo de voz  
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi um avatar da minha própria imagem realizando uma breve introdução sobre o conteúdo das IAS Generativas.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
